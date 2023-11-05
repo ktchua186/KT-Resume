@@ -1,0 +1,80 @@
+.first{  
+    
+    padding: 50px;
+    border-radius:20px;
+    display:flex;
+    
+      
+}
+
+.Header{
+    background-color: #E3FDFD;
+}
+
+.Header2{
+    background-color: #DFCCFB;
+}
+
+h1{
+    
+    font-size: 56px;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 900;
+     padding:40px
+}
+
+
+
+.information{
+    border-radius: 20px;
+    
+}
+
+
+
+.KT{
+    width:200px;
+    height:230px;
+    border-radius:100%;
+    margin:1.7rem;
+   
+    
+}
+
+.detail{
+    margin-left:2rem;
+    
+    
+    
+    
+}
+.small-icon{
+    width:25px;
+    height:25px;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  .skills{
+    margin:30px 98px 0px 100px;
+  }
+
+  .skill-list{
+   margin-right:20px;
+   margin-bottom:10px;
+   
+}
+
+.list-item{
+    background-color: #EFFFFD;
+}
